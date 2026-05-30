@@ -79,13 +79,6 @@ JOIN city c ON a.city_id = c.city_id;
 ![Отработка запроса с необходимыми данными](./img/5.jpg)
 
 
-
----
----
-
-
-
-
 </details>
 
 </details>
